@@ -10,11 +10,19 @@ O Move.it é um projeto feito com Next.JS que utiliza a técnica pomodoro para m
 ### Layout
 
 <h4 a align="center">
+<<<<<<< HEAD
   <img alt="" title="Home" src="https://ik.imagekit.io/LucasBno/moveit1_RzpORspeo.png" width="800" />
 </h4>
 <h4 float="left"align="center">
   <img alt="" title="Desafio" src="https://ik.imagekit.io/LucasBno/moveit2_U9F8EalBV.png" width="450px" />
   <img alt="" title="Novo nivel" src="https://ik.imagekit.io/LucasBno/moveit3_GniK_WKqVc.png" width="450px" />
+=======
+  <img alt="" title="Home" src="https://ik.imagekit.io/LucasBno/moveit1_RzpORspeo.png" width="600px" />
+</h4>
+<h4 float="left"align="center">
+  <img alt="" title="Desafios" src="https://ik.imagekit.io/LucasBno/moveit2_U9F8EalBV.png" width="400px" />
+  <img alt="" title="Novo nivel" src="https://ik.imagekit.io/LucasBno/moveit3_GniK_WKqVc.png" width="400px" />
+>>>>>>> origin/master
 </h4>
 
 ### Executando o projeto local
